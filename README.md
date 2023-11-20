@@ -4,7 +4,7 @@
 <p align="center">
   <br>
   이미지는 추후에 변경하시거나 삭제하시면 됩니다.<br /> 보통 메인 이미지를 올려놓습니다.<br />
-  <img src="./readme-static/img/Ditto.jpg">
+  <img src="./readme-static/img/main.png">
   <br>
 </p>
 
@@ -13,8 +13,9 @@
 ## 프로젝트 소개
 
 <p align="justify">
-   기존의 음원 스트리밍 사이트의 문화는이제 
-   에센셜(essential;), 떼껄룩(TAKE A LOOK) 채널과 같이, 본인이 테마에 맞게 제작한 플레이리스트를 공유하는 
+   TOP100, 인기차트 등 순위 매기기 음악 사이트는 이제 가라!
+   YOUTUBE를 강타한 채널, 에센셜(essential;), 떼껄룩(TAKE A LOOK) 등등 본인이 테마에 맞게 제작한 플레이리스트를 공유할 수 있는 사이트가 있다면?
+   자신만의 개성으로 플레이리스트를 만들고, 취향을 공유하며 소통해보자!
 </p>
 
 <p align="center">
